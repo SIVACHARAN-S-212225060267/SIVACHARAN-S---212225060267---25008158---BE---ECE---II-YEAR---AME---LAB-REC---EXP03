@@ -58,7 +58,7 @@ P4 = Port 3 Output (P2 is input) [P1 is matched termination]
 ---
 ## Calculation
 
-Instertion Loss (dB) = P1-P2
+Insertion Loss (dB) = P1-P2
 
 Coupling Factor (dB) = P1-P3
 
